@@ -19,4 +19,4 @@ How to use
 
 Notes & Licensing
 - This project is intended as a fan tool and demonstration. Ensure you have the appropriate rights to use any audio file (`song.mp3`) you load locally.
-- You can edit the `data-start` attributes to tweak the timings or create/export your own LRC files (the previous recording UI was removed; timestamps are now static).
+- You can edit the `data-start` attributes to tweak the timings.
